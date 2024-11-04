@@ -6,8 +6,8 @@ Here's a GitHub README draft tailored for you, Pankaj:
 Welcome to my GitHub profile! I'm an aspiring Frontend Developer with a keen interest in building dynamic and user-friendly web applications. With skills in HTML, CSS, JavaScript, and Bootstrap, I'm diving deep into JavaScript core concepts to solidify my foundation as I pursue a BSc in IT.
 
 ## About Me
-- 💼 Aspiring Software Engineer with a focus on frontend development
-- 🌱 Currently learning full-stack development and core JavaScript concepts
+- 💼 Aspiring Software Engineer with a focus on full-Stack development
+- 🌱 Currently learning core JavaScript concepts
 - 🎓 Pursuing a BSc in IT and sharing my journey on [LinkedIn](https://www.linkedin.com/in/pankaj026/)
 - 🔄 Documenting my learning journey and projects on [GitHub](https://github.com/Pankaj-026/)
 
