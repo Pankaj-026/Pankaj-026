@@ -5,8 +5,6 @@ Here's a GitHub README draft tailored for you, Pankaj:
 ## Hi there! I'm Pankaj Gupta 👋
 Welcome to my GitHub profile! I'm an aspiring Frontend Developer with a keen interest in building dynamic and user-friendly web applications. With skills in HTML, CSS, JavaScript, and Bootstrap, I'm diving deep into JavaScript core concepts to solidify my foundation as I pursue a BSc in IT.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pankaj-026&color=blueviolet)
-
 ## About Me
 - 💼 Aspiring Software Engineer with a focus on frontend development
 - 🌱 Currently learning full-stack development and core JavaScript concepts
