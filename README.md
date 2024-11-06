@@ -1,5 +1,5 @@
 ## Hi there! I'm Pankaj Gupta 👋
-Welcome to my GitHub profile! I'm an aspiring Frontend Developer with a keen interest in building dynamic and user-friendly web applications. With skills in HTML, CSS, JavaScript, and Bootstrap, I'm diving deep into JavaScript core concepts to solidify my foundation as I pursue a BSc in IT.
+Welcome to my GitHub profile! I'm an aspiring Software Engineer with a keen interest in building dynamic and user-friendly web applications. With skills in HTML, CSS, JavaScript, and Bootstrap, I'm diving deep into JavaScript core concepts to solidify my foundation as I pursue a BSc in IT.
 
 ## About Me
 - 💼 Aspiring Software Engineer with a focus on full-Stack development
