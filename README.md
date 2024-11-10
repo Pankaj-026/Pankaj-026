@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm an aspiring Software Engineer with a keen inte
 ## About Me
 - 💼 Aspiring Software Engineer with a focus on full-Stack development
 - 🌱 Currently learning core JavaScript concepts
-- 🎓 Pursuing a BSc in IT and sharing my journey on [LinkedIn](https://www.linkedin.com/in/pankaj026/)
-- 🔄 Documenting my learning journey and projects on [GitHub](https://github.com/Pankaj-026/)
+- 🎓 Pursuing a BSc in IT
+- 🔄 Documenting my learning journey and projects on Github
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm an aspiring Software Engineer with a keen inte
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Projects
-- **SP-Cara**: Currently developing a Clothing Ecommerce Website using html,css & javascript
-- **Trafalgar**: A medicine website providing information and resources for healthcare.S
+- **SP-Cara**: Currently developing a Clothing Ecommerce Website using html,css & javascript.
+- **Trafalgar**: A medicine website providing information and resources for healthcare.
 - **VPN Website**: A site focused on VPN services, emphasizing secure and private browsing.
 
 ## Let's Connect!
