@@ -1,6 +1,6 @@
 ## Hi there! I'm Pankaj Gupta 👋  
 
-Welcome to my GitHub profile! I'm an aspiring **Software Engineer** passionate about building dynamic and user-friendly web applications. With a strong foundation in **HTML, CSS, JavaScript, and Bootstrap**, I'm currently diving deep into **JavaScript core concepts** and **full-stack development** as I pursue a **BSc in IT**.  
+Welcome to my GitHub profile! I'm an aspiring **Software Engineer** passionate about building dynamic and user-friendly web applications. With a strong foundation in **HTML, CSS, JavaScript, and tailwind**, I'm currently diving deep into **React core concepts** and **DSA** as I pursue a **BSc in IT**.  
 
 ---
 
@@ -30,10 +30,10 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** passionate a
 
 ## 📌 Projects  
 - **DineSPace**: A **Restaurant Seat Reservation App** using the **MERN stack (React Native, Node.js, Express, MongoDB)**  
+- **CarVision**: A **Car Camparison Web App**  
 - **SP-Cara**: Currently developing a **Clothing Ecommerce Website** using **HTML, CSS & JavaScript**  
 - **Trafalgar**: A **medicine website** providing information and resources for healthcare  
 - **VPN Website**: A site focused on **VPN services**, emphasizing secure and private browsing  
-- **CarVision**: A **Car Price Prediction Web App** using **Machine Learning & Flask**  
 
 ---
 
